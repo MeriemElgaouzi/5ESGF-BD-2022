@@ -10,4 +10,8 @@
     <PackageReference Include="System.Runtime.Loader" Version="4.3.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Sudoku.CSPSparkSolver-1\Sudoku.CSPSparkSolver-1.csproj" />
+  </ItemGroup>
+
 </Project>
