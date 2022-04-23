@@ -1,0 +1,14 @@
+
+
+Le Solver choisi pour la résolution du Sudoku est "CSP Solver" on a essayé de travailler et de modifier le dépot 
+"https://github.com/jsboigeECE/ECE-2022-Ing4-Finance-IA1-Gr04" 
+
+-On a cloné le dépôt 2 du projet sur VisualCode pour y apporter des modifications.
+On a eu une erreur en modifiant le CSPSolver.cs pour tester sur Benchmark, on a eu un souci avec 
+le "Maingui" qui n'a pas voulu se lire car l'objet ne contient pas définition malgré quon l'a ajouté dans un fichier Ressource 
+sous notre solution.
+
+-On a essayé d'ajouter le fichier program.cs code spark.
+
+-On a eu des difficultés à faire marcher le code, mais en a essayé de l'adapter et d'y ajouter des modifications 
+
